@@ -4,7 +4,7 @@ import { Linkedin, FileText, Shield, Download, Sparkles, BarChart3 } from "lucid
 const features = [
   {
     icon: Linkedin,
-    title: "LinkedIn Integration"
+    title: "LinkedIn Integration",
     description: "Import your professional data directly from LinkedIn with one click",
     color: "text-blue-600",
   },
